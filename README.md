@@ -8,7 +8,7 @@ This dashboard provides insights into **employee attrition, department-wise attr
 
 ## Dashboard Preview
 
-![Mobile Sales Dashboard](dashboard.png)
+![Hr Analytics Dashboard](Dashboard.png)
 
 # Project Objectives
 
